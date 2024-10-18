@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 public class RepeatedCharacters {
 
     /**
-     * El metodo debe retornar un booleano indicando si el parametro `cadena` cumple
+     * El metodo debe retornar un booleano indicando si el parametro `string` cumple
      * con alguna de las siguientes propiedades: 1- Todos los caracteres aparecen la
      * misma cantidad de veces. Ejemplos: "aabbcc", "abcdef", "aaaaaa" 2- Todos los
      * caracteres aparecen la misma cantidad de veces, a excepcion de 1, que aparece
